@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /upsell.html
+Disallow: /thankyou.html
+Disallow: /thankyou_1ball.html
+Disallow: /privacy_policy.html
+Sitemap: http://lol-trade.ru/sitemap.xml
+Host: lol-trade.ru

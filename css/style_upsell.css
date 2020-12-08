@@ -1,0 +1,281 @@
+/* CSS Document */
+@media screen and (min-width:1024px){
+    #UPmain{
+        width: 100%;
+        height: 960px;
+        background: url(../img/fon11.jpg);
+    }
+    #UPthankyou1{
+        padding-top: 120px;
+        width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 37px;
+        text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+        color: #FD1F93;
+    }
+    #UPthankyou11{
+        width: 1000px;
+        height: 50px;
+        margin: 0 auto;
+        text-align: center;
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 22px;
+        text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+        color: #FD1F93;
+        border-bottom: 1px solid #FD1F93;
+    }
+    #UPthankyou111{
+        width: 1000px;
+        text-align: center;
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 22px;
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+    #UPmain_text{
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 37px;
+        text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+        color: #62DFF4;
+        margin-top: 35px;
+        text-align: center;
+    }
+    #UPm_form_text{
+        font-family: 'a_FuturaRound', arial;
+        font-size: 29px;
+        text-align: center;
+        color: #000;
+        margin-top: 20px;
+    }
+    #UP_span1{
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 29px;
+        text-align: center;
+        color: #FD1F93;
+        margin-top: 20px;
+    }
+    #UPmain_span2{
+        font-family: 'a_FuturaRound', arial;
+        text-align: center;
+        font-size: 25px;
+    }
+    #UPtext{
+        font-family: 'a_FuturaRound', arial;
+        text-align: center;
+        font-size: 19px;
+        padding: 0 5px 0 5px;
+    }
+}/*(min-width:1024px)*/
+
+@media screen and (min-width:768px) and (max-width:1023px){
+    #UPmain{
+        width: 100%;
+        height: 1860px;
+        background: url(../img/fon11.jpg);
+    }
+    #UPthankyou1{
+        padding-top: 120px;
+        width: 748px;
+        margin: 0 auto;
+        text-align: center;
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 37px;
+        text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+        color: #FD1F93;
+    }
+    #UPthankyou11{
+        width: 748px;
+        height: 70px;
+        margin: 0 auto;
+        text-align: center;
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 22px;
+        text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+        color: #FD1F93;
+        border-bottom: 1px solid #FD1F93;
+    }
+    #UPthankyou111{
+        width: 748px;
+        text-align: center;
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 22px;
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+    #UPmain_text{
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 37px;
+        text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+        color: #62DFF4;
+        margin-top: 35px;
+        text-align: center;
+    }
+    #UPm_form_text{
+        font-family: 'a_FuturaRound', arial;
+        font-size: 29px;
+        text-align: center;
+        color: #000;
+        margin-top: 20px;
+    }
+    #UP_span1{
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 29px;
+        text-align: center;
+        color: #FD1F93;
+        margin-top: 20px;
+    }
+    #UPmain_span2{
+        font-family: 'a_FuturaRound', arial;
+        text-align: center;
+        font-size: 25px;
+    }
+    #UPtext{
+        font-family: 'a_FuturaRound', arial;
+        text-align: center;
+        font-size: 29px;
+        padding: 0 5px 0 5px;
+        margin-top: 50px;
+    }
+}/*(min-width:768px) and (max-width:1023px)*/
+
+@media screen and (min-width:500px) and (max-width:767px){
+    #UPmain{
+        width: 100%;
+        height: 1500px;
+        background: url(../img/fon11.jpg);
+    }
+    #UPthankyou1{
+        padding-top: 120px;
+        width: 480px;
+        margin: 0 auto;
+        text-align: center;
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 37px;
+        text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+        color: #FD1F93;
+    }
+    #UPthankyou11{
+        width: 480px;
+        height: 70px;
+        margin: 0 auto;
+        text-align: center;
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 22px;
+        text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+        color: #FD1F93;
+        border-bottom: 1px solid #FD1F93;
+    }
+    #UPthankyou111{
+        width: 480px;
+        text-align: center;
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 22px;
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+    #UPmain_text{
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 35px;
+        text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+        color: #62DFF4;
+        margin-top: 35px;
+        text-align: center;
+    }
+    #UPm_form_text{
+        font-family: 'a_FuturaRound', arial;
+        font-size: 29px;
+        text-align: center;
+        color: #000;
+        margin-top: 20px;
+    }
+    #UP_span1{
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 29px;
+        text-align: center;
+        color: #FD1F93;
+        margin-top: 20px;
+    }
+    #UPmain_span2{
+        font-family: 'a_FuturaRound', arial;
+        text-align: center;
+        font-size: 25px;
+    }
+    #UPtext{
+        font-family: 'a_FuturaRound', arial;
+        text-align: center;
+        font-size: 20px;
+        padding: 0 5px 0 5px;
+    }
+}/*(min-width:500px) and (max-width:767px)*/
+
+@media screen and (max-width:499px){
+    #UPmain{
+        width: 100%;
+        height: 1350px;
+        background: url(../img/fon11.jpg);
+    }
+    #UPthankyou1{
+        padding-top: 120px;
+        width: 300px;
+        margin: 0 auto;
+        text-align: center;
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 37px;
+        text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+        color: #FD1F93;
+    }
+    #UPthankyou11{
+        width: 300px;
+        height: 90px;
+        margin: 0 auto;
+        text-align: center;
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 22px;
+        text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+        color: #FD1F93;
+        border-bottom: 1px solid #FD1F93;
+    }
+    #UPthankyou111{
+        width: 300px;
+        text-align: center;
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 20px;
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+    #UPmain_text{
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 22px;
+        text-shadow: 0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000,0 0 4px #000;
+        color: #62DFF4;
+        margin-top: 10px;
+        text-align: center;
+    }
+    #UPm_form_text{
+        font-family: 'a_FuturaRound', arial;
+        font-size: 24px;
+        text-align: center;
+        color: #000;
+        margin-top: 15px;
+    }
+    #UP_span1{
+        font-family: 'a_FuturaRound Bold', arial;
+        font-size: 29px;
+        text-align: center;
+        color: #FD1F93;
+        margin-top: 20px;
+    }
+    #UPmain_span2{
+        font-family: 'a_FuturaRound', arial;
+        text-align: center;
+        font-size: 25px;
+    }
+    #UPtext{
+        font-family: 'a_FuturaRound', arial;
+        text-align: center;
+        font-size: 20px;
+        padding: 0 5px 0 5px;
+    }
+}/*(max-width:499px)*/

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Спасибо за покупку!</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/style_thankyou.css">
+    <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+    <link rel="icon" href="http://lol-trade.ru/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="http://lol-trade.ru/favicon.ico" type="image/x-icon"/>
+    
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function() {
+                try {
+                    w.yaCounter46914354 = new Ya.Metrika({
+                        id:46914354,
+                        clickmap:true,
+                        trackLinks:true,
+                        accurateTrackBounce:true,
+                        webvisor:true
+                    });
+                } catch(e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/46914354" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    
+    <script type="text/javascript">
+    // установим обработчик события resize (изменение размеров экрана)
+    $(window).resize(function(){   
+        $(document).ready(function() {
+            if($(window).width() >= '768'){
+                $("#mob_menu_list").css("display", "none");
+            }
+        });
+    });
+    //выпадающее меню
+    $(document).ready(function(){
+        $("#mob_menu_icon").click(function(){
+            $("#mob_menu_list").slideToggle(300);
+            return false;
+        });
+    });
+</script>
+</head>
+
+<body>
+
+    <div id="menu">
+        <div id="menu_cont">
+            <div id="menu_log" class="menu_el">
+                <a href="http://lol-trade.ru">
+                    <img src="img/logotip.png" alt="логотип">
+                </a>
+            </div>
+            <a href="http://lol-trade.ru/#AnchCat"><div class="menu_el">В чем особенность?</div></a>
+            <a href="http://lol-trade.ru/#AnchVid"><div class="menu_el">Видеообзор</div></a>
+            <a href="http://lol-trade.ru/#AnchRev"><div class="menu_el">Отзывы</div></a>
+            <a href="http://lol-trade.ru/#AnchDel"><div class="menu_el">Доставка/Оплата</div></a>
+            <div class="menu_el">
+                <a href="http://lol-trade.ru/#AnchForm"><div id="menu_butt">ЗАКАЗАТЬ</div></a>
+            </div>
+            <div style="clear:both;"></div>
+        </div>
+    </div>
+    
+    <div id="mob_menu">
+        <div id="mob_menu_cont">
+            <div id="mob_menu_icon" class="mob_menu_el">
+                <img src="img/mob_menu.png" alt="меню">
+            </div>
+            <div id="mob_menu_log" class="mob_menu_el">
+                <a href="http://lol-trade.ru">
+                    <img src="img/logotip.png" alt="логотип">
+                </a>
+            </div>
+            <a href="http://lol-trade.ru/#AnchForm"><div id="mob_menu_butt" class="mob_menu_el">
+                <div>ЗАКАЗАТЬ</div>
+            </div></a>
+            <div style="clear:both;"></div>
+        </div>
+        <div id="mob_menu_list">
+            <a href="http://lol-trade.ru/#AnchCat"><div class="mob_el">В чем особенность?</div></a>
+            <a href="http://lol-trade.ru/#AnchVid"><div class="mob_el" style="background: #C9EAF2;">Видеообзор</div></a>
+            <a href="http://lol-trade.ru/#AnchRev"><div class="mob_el">Отзывы</div></a>
+            <a href="http://lol-trade.ru/#AnchDel"><div class="mob_el" style="background: #C9EAF2;">Доставка/Оплата</div></a>
+        </div>
+    </div>
+    
+    <div id="UPmain">
+        <div id="UPthankyou1">СПАСИБО ЗА ЗАКАЗ!</div>
+        <div id="UPthankyou11">Ваш заказ принят. В течение 10 минут с Вами свяжется наш менеджер.</div>
+    </div>
+    
+    <div id="footer">
+	    <div id="footer_conf">
+	        ИП Серик А. Ю.<br/>
+            Фактический/почтовый адрес: Ростов-на-Дону, ул. Артемовская, д.51<br/>
+            тел. 8(999)692-51-52<br/><br/>
+
+            ИНН 614106060810<br/>
+            Copyright @ lol-trade.ru 2017<br/>
+            Все права защищены<br/>
+            <a href="/privacy_policy.html">Политика конфиденциальности</a>
+	    </div>
+	</div>
+	
+	<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'CkX8ONAsDb';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+	
+</body>
+</html>
